@@ -1,0 +1,32 @@
+body{
+	background-color: #000;
+	color: #FFF;
+	font-family: arial;
+}
+h1{
+	color: #000;
+	background-color: #FFF;
+	height: 70px;
+	border-radius: 100%;
+	padding-top: 35px;
+
+}
+div{
+	border-style: solid;
+	border-radius: 100%;
+	border-color: #ccc;
+	margin: 10px;
+	font-size: 95%;
+}
+
+
+footer{
+	background: #cc0;
+	height: 70px;
+	color : #FFF;
+	border-radius: 100%;
+	padding-top: 20px;
+	
+}
+
+
